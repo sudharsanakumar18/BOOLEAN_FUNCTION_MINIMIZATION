@@ -49,9 +49,6 @@ endmodule
 ```
 
 ## RTL realization:
-![image](https://github.com/sudharsanakumar18/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849110/14048d72-126a-43a7-aacd-7aa153d9752e)
-
-## RTL realization:
 ![image](https://github.com/sudharsanakumar18/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849110/9a677ac8-42c9-4ddb-b484-fc75b252cdb3)
 
 ## RTL:
